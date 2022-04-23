@@ -10,7 +10,7 @@ I've been learning to code for 5 years. I started with C. I have really found a 
 * 🖥️  See my portfolio at [github](http://github.com/coder-maniac)
 
 <br/>
-### Skills
+Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
